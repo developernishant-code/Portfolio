@@ -13,8 +13,8 @@ export const projects = [
     title: "Portfolio Website",
     description: "Personal portfolio using React & Tailwind",
     image: portfolioimg,
-    live: "https://your-portfolio.com",
-    github: "hhttps://github.com/developernishant-code/FUTURE_FS_01",
+    live: "https://my-mineportfolio.netlify.app/",
+    github: "https://github.com/developernishant-code/FUTURE_FS_01",
   },
   {
     title: "Basic E-commerce",
