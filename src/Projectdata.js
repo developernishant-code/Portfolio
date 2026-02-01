@@ -20,7 +20,7 @@ export const projects = [
     title: "Basic E-commerce",
     description: "Modern shopping UI design",
     image: ecoming,
-    live: "https://minisho.netlify.app/",
-    github: "https://github.com/developernishant-code/miniecommerce",
+    live: "https://buybe.netlify.app/",
+    github: "https://github.com/developernishant-code/estore",
   },
 ];
